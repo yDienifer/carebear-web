@@ -17,6 +17,13 @@ const config: Config = {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      fontFamily: {
+        sans: ['Inter', 'sans-serif'],  
+        lobster: ['Lobster', 'cursive'],  
+        poppins: ['Poppins', 'sans-serif'], 
+        nunito: ['Nunito', 'sans-serif'],  
+        quicksand: ['Quicksand', 'sans-serif'],
+      },
     },
   },
   plugins: [],
