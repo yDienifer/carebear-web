@@ -7,7 +7,7 @@ export default [
       globals: {
       },
       parserOptions: {
-        ecmaVersion: 12,
+        ecmaVersion: 14,
         sourceType: 'module',
         ecmaFeatures: {
           jsx: true,
